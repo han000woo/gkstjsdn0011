@@ -8,3 +8,7 @@ def 보여줘_고양이():
     print("고양이")
 
 보여줘_고양이()
+
+kimoring= 100
+for kimo in range(kimoring) :
+    print("앙 기모링")
