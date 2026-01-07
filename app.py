@@ -1,1 +1,1 @@
-print("gmail 로그인 구현")sdfg
+print("gmail 로그인 구현")
